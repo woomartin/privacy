@@ -6,7 +6,7 @@ Email: womarklee@gmail.com
 App Manager (com.hookandroid.apkmanager) integrates the third-party firebase sdk and needs to collect the following user data for application function analysis.
 1. Crash log
 2. Application interaction
-3. Device ID or other ID
+3. Device ID or other ID or Advertising ID
 
 ## Required permissions
 READ_EXTERNAL_STORAGE Read apk files in the device<br/>
